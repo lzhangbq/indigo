@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Liangwei Zhang
+bio: Master student in Computer Science @CMU
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Actively seeking new Grad opportunities in Software Engineering and Machine Learning
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/zlw-photo.jpg
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://lzhangbq.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: mark_zlw
+linkedin: liangwei-zhang-112370196
+github: lzhangbq
+email: bbxzlpl@gmail.com
 
 authors:
   johndoe:
