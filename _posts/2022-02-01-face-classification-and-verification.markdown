@@ -13,8 +13,10 @@ author: Liangwei Zhang
 externalLink: false
 ---
 
-<p>Deep Learning Course Project at CMU.
-This project aims to use Convolutional Neural Networks (CNNs) to design an
+<p>Deep Learning Course Project at CMU.</p> 
+
+
+<p>This project aims to use Convolutional Neural Networks (CNNs) to design an
 end-to-end system for multi-label face classification and face verification.</p> 
 <p>My work:
     <li>Implemented one recent baseline model <a href="https://arxiv.org/pdf/2201.03545.pdf">ConvNet</a> toward the design of a vision Transformer.</li>

@@ -13,10 +13,13 @@ author: Liangwei Zhang
 externalLink: false
 ---
 
-<p>Directed Study Project at CMU.
-This project aims to create fine-tuned
+<p>Directed Study Project at CMU.</p> 
+
+
+<p>This project aims to create fine-tuned
 poster layout annotation datasets. Moreover, we implemented the pipeline to funetune the pre-trained LayoutTransfomer Model on the poster dataset to generate reasonable lay-
 outs for academic posters.</p> 
+
 <p>My work:
     <li>Created a layout dataset of academic posters through <a href="https://www.mturk.com/">Amazon Mechanical Turk</a> (MTurk). </li>
     <li>Devised bounding box annotation instructions of academic papers and annotated over 500 posters.</li>
@@ -27,7 +30,7 @@ generate poster layouts.</li>
 
 ---
 
-![saro](directed-study-overview.png)
+![alt text](https://github.com/lzhangbq/indigo/blob/gh-pages/_posts/directed-study-overview.png)
 Overview Method Design for Poster Layout Generation
 
 ---
