@@ -24,12 +24,12 @@ end-to-end system for multi-label face classification and face verification.</p>
 
 ---
 
-![Screenshot](Face_Classification.png?raw=true)
+![saro](Face_Classification.png)
 A typical Face Classification Architecture
 
 ---
 
-![Screenshot](Face-Verification.png?raw=true)
+![saro](Face-Verification.png)
 Face Verification Architecture
 
 
