@@ -3,7 +3,7 @@ title: "Software Engineering Intern - Meta Platforms, Inc."
 layout: post
 date: May 2022
 tag: Internship
-image: https://github.com/lzhangbq/indigo/blob/gh-pages/_posts/meta_pic.jpg
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
