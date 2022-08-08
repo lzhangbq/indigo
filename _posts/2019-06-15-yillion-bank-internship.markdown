@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Intern - Jilin Yillion Bank Co., Ltd."
+title: "Software Engineering Intern - Jilin Yillion Bank Co., Ltd."
 layout: post
 date: June 2019
 tag: Internship
