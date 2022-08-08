@@ -1,7 +1,7 @@
 ---
 title: "Image-Based Face Classification"
-layout: February 2022 - April 2022
-date: April
+layout: post
+date: February 2022 - April 2022
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
