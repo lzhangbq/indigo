@@ -1,15 +1,15 @@
 ---
 title: "Image-Based Face Classification"
 layout: post
-date: February 2022 - April 2022
-tag: jekyll
+date: February 2022
+tag: Academic
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description:
 category: project
-author: johndoe
+author: Liangwei Zhang
 externalLink: false
 ---
 
