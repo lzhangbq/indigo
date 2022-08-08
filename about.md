@@ -4,23 +4,23 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-## Introduction
+# Introduction
 I am a second-year graduate student in [Master of Science in Intelligent Information Systems](https://miis.cs.cmu.edu/) (MIIS) at the School of Computer Science, Carnegie Mellon University (CMU). Previously I completed my bachelor study in [Data Science and Technology](https://dsct.ust.hk/) in the Hong Kong University of Science and Technology (HKUST).
 
 I'm a cell-like independent teamworker, strong in research and coding. I have strong background in Machine Learning (NLP, Knowledge Graph, CV) and Software Engineering (Search Engine, backend). Currently I am open to new Software Engineering or Machine Learning opportunities. If you think I'm a good fit, please contant me via <a href="mailto:bbxzlpl@gmail.com">bbxzlpl@gmail.com</a>. 
-## Educational Experience:
-# Carnegie Mellon University – School of Computer Science								Pittsbugh
+# Educational Experience:
+## Carnegie Mellon University – School of Computer Science								Pittsbugh
 - Master of Science in Intelligent Information Systems (GPA: 3.89/4.0)                  Aug 2021 - Dec 2022
 - Selected Coursework: Machine Learning, Deep Learning, Machine Learning in Production, Search Engines, Advanced NLP, Introduction to Computer Systems
 
 
-# The Hong Kong University of Science and Technology (HKUST)							Hong Kong
+## The Hong Kong University of Science and Technology (HKUST)							Hong Kong
 - Bachelor of Science in Data Science and Technology (GPA: 3.8/4.3)                  Sep 2017 – June 2021
 - Minor in Big Data Technology 
 - First Class Honor Degree Classification (Major GPA: 4.16/4.3)
 - Selected Coursework: Algorithms and Data Structures, Cloud Computing, Big Data Mining, Object-Oriented Programming
 
-## Skills:
+# Skills:
 <h2>Programming Languages: </h2>
 
 <ul class="programming-list">
