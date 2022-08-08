@@ -28,7 +28,7 @@ from paper.
 - Finetuned the [LayoutTransformer](https://arxiv.org/abs/2006.14615) model to 
 generate poster layouts.
 
-![Screenshot](directed-study-overview.png?raw=true "Optional Title")
+![Screenshot](./directed-study-overview.png?raw=true "Optional Title")
 
 Overview Method Design for Poster Layout Generation
 
