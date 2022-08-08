@@ -9,16 +9,20 @@ I am a second-year graduate student in [Master of Science in Intelligent Informa
 
 I'm a cell-like independent teamworker, strong in research and coding. I have strong background in Machine Learning (NLP, Knowledge Graph, CV) and Software Engineering (Search Engine, backend). Currently I am open to new Software Engineering or Machine Learning opportunities. If you think I'm a good fit, please contant me via <a href="mailto:bbxzlpl@gmail.com">bbxzlpl@gmail.com</a>. 
 # Educational Experience:
-## Carnegie Mellon University – School of Computer Science								Pittsbugh
-- Master of Science in Intelligent Information Systems (GPA: 3.89/4.0)                  Aug 2021 - Dec 2022
-- Selected Coursework: Machine Learning, Deep Learning, Machine Learning in Production, Search Engines, Advanced NLP, Introduction to Computer Systems
+## Carnegie Mellon University – School of Computer Science	
+- Pittsburgh (Aug 2021 - Dec 2022)							
+- Master of Science in Intelligent Information Systems (GPA: 3.89/4.0)                  
+- Selected Coursework: Machine Learning, Deep Learning, Machine Learning in Production, Search Engines, Advanced NLP, Applied Distributed System, Introduction to Computer Systems
 
 
-## The Hong Kong University of Science and Technology (HKUST)							Hong Kong
-- Bachelor of Science in Data Science and Technology (GPA: 3.8/4.3)                  Sep 2017 – June 2021
+## The Hong Kong University of Science and Technology (HKUST)	
+- Hong Kong (Sep 2017 – June 2021)						
+- Bachelor of Science in Data Science and Technology (GPA: 3.8/4.3)                  
 - Minor in Big Data Technology 
 - First Class Honor Degree Classification (Major GPA: 4.16/4.3)
-- Selected Coursework: Algorithms and Data Structures, Cloud Computing, Big Data Mining, Object-Oriented Programming
+- Selected Coursework: 
+1. Computer Science: Algorithms and Data Structures, Cloud Computing, Big Data Mining, Object-Oriented Programming, Image Processing, Internet Computing, Principles of Cybersecurity.
+2. Mathematics: Regression Analysis, Statistical Inference, Data Analytic Tools, Matrix Computation, Probability, Mathematical Analysis, Honors in Linear and Abstract Algebra, Applied Statistics.
 
 # Skills:
 <h2>Programming Languages: </h2>
