@@ -127,3 +127,5 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+
+theme: jekyll-theme-cayman
