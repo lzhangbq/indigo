@@ -24,12 +24,12 @@ end-to-end system for multi-label face classification and face verification.</p>
 
 ---
 
-![Screenshot](https://github.com/lzhangbq/indigo/blob/gh-pages/assets/images/Face_Classification.png)
+![Screenshot](assets/images/Face_Classification.png)
 A typical Face Classification Architecture
 
 ---
 
-![Screenshot](https://github.com/lzhangbq/indigo/blob/gh-pages/assets/images/Face-Verification.png)
+![Screenshot](assets/images/Face-Verification.png)
 Face Verification Architecture
 
 
