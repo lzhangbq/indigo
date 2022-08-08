@@ -16,8 +16,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/LiangweiZhang_CV.pdf
 
 url: https://lzhangbq.github.io
 # your url: https://USERNAME.github.io
