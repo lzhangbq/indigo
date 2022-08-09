@@ -13,25 +13,26 @@ author: Liangwei Zhang
 externalLink: false
 ---
 
-<p>Deep Learning Course Project at CMU.</p> 
+Deep Learning Course Project at CMU.
 
 
-<p>This project aims to use Convolutional Neural Networks (CNNs) to design an
-end-to-end system for multi-label face classification and face verification.</p> 
-<p>My work:
-    <li>Implemented one recent baseline model <a href="https://arxiv.org/pdf/2201.03545.pdf">ConvNet</a> toward the design of a vision Transformer.</li>
-    <li>Applied data augmentation techniques to images including random augmentation, random affine.</li>
-    <li>Performed <a href="https://pytorch.org/docs/stable/generated/torch.nn.TripletMarginLoss.html">Triplet loss</a> to model the similarities among triplets of faces on Face Verification tasks.</li>
-    <li>Obtained over 90% in Face Classification tasks, and over 96% in Face Verification tasks. Ranked 14/354 on Kaggle Competition.</li></p>
+This project aims to use Convolutional Neural Networks (CNNs) to design an
+end-to-end system for multi-label face classification and face verification.
 
----
 
-![saro](Face_Classification.png)
+My work:
+- Implemented one recent baseline model [ConvNet](https://arxiv.org/pdf/2201.03545.pdf) toward the design of a vision Transformer.
+- Applied data augmentation techniques to images including random augmentation, random affine. 
+- Performed [Triplet loss](https://pytorch.org/docs/stable/generated/torch.nn.TripletMarginLoss.html) to model the similarities among triplets of faces on Face Verification tasks.
+- Obtained over 90% in Face Classification tasks, and over 96% in Face Verification tasks. Ranked 14/354 on Kaggle Competition. 
+
+
+![Screenshot](https://raw.githubusercontent.com/lzhangbq/lzhangbq.github.io/gh-pages/_posts/Face_Classification.png)
 A typical Face Classification Architecture
 
 ---
 
-![saro](Face-Verification.png)
+![Screenshot](https://raw.githubusercontent.com/lzhangbq/lzhangbq.github.io/gh-pages/_posts/Face-Verification.png)
 Face Verification Architecture
 
 
