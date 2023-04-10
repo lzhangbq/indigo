@@ -10,7 +10,7 @@ I am a second-year graduate student in [Master of Science in Intelligent Informa
 I'm a cell-like independent teamworker, strong in research and coding. I have strong background in Machine Learning (NLP, Knowledge Graph, CV) and Software Engineering (Search Engine, backend). Currently I am open to new Software Engineering or Machine Learning opportunities. If you think I'm a good fit, please contant me via <a href="mailto:bbxzlpl@gmail.com">bbxzlpl@gmail.com</a>. 
 # Educational Experience:
 ## Carnegie Mellon University – School of Computer Science	
-- Pittsburgh (Aug 2021 - Dec 2022)							
+- Pittsburgh (Aug 2021 - May 2023)							
 - Master of Science in Intelligent Information Systems (GPA: 3.89/4.0)                  
 - Selected Coursework: Machine Learning, Deep Learning, Machine Learning in Production, Search Engines, Advanced NLP, Applied Distributed System, Introduction to Computer Systems
 
